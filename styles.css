@@ -11,6 +11,7 @@ header {
     font-size: 32px;
     color: rgb(255, 255, 255);
 }
+
 section {
     background: rgb(160, 14, 14);
     padding-bottom: 80px;
@@ -20,18 +21,31 @@ section {
 
 }
 
-.chamada-texto{
+.chamada-texto {
     margin-right: 20px;
-    
 }
-h1{
-    font-size: 40px
+
+h1 {
+font-size: 40px;
 }
-p{
-    font-size: 50pxs
+
+p {
+    font-size: 50px;
 }
 
 
-img{
+img {
     height: 200px;
+}
+
+
+.categoria-videos {
+    display: flex;
+    overflow-x: autor;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
 }
